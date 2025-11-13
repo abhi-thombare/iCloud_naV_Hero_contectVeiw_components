@@ -20,7 +20,7 @@ struct AppleHeroSection: View {
                     .font(.system(size: 18))
                     .foregroundColor(.gray)
                 
-                // Buttons
+                / Buttons
                 HStack(spacing: 20) {
                     Button(action: {}) {
                         Text("Learn more")
