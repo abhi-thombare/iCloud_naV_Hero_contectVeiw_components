@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct AppleHeroSection: View {
+struct AppleHeroSection: View 
     var body: some View {
         ZStack {
             // Background gradient
