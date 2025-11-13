@@ -51,7 +51,7 @@ struct AppleHeroSection: View {
             }
             .padding()
         }
-        .frame(height: 600)
+        frame(height: 600)
     }
 }
 
