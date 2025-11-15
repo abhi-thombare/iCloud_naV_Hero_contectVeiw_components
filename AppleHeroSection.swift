@@ -7,7 +7,7 @@ struct AppleHeroSection: View {
             LinearGradient(gradient: Gradient(colors: [Color.black, Color.gray.opacity(0.9)]),
                            startPoint: .top,
                            endPoint: .bottom)
-            .ignoresSafeArea(
+            .ignoresSafeArea()
             
             VStack(spacing: 20) {
                 // Product Name
