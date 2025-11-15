@@ -1,4 +1,4 @@
-import SwiftUI
+import SwiftU
 
 struct AppleNavbar: View {
     var body: some View {
